@@ -1,0 +1,12 @@
+/
+    Homepage
+    
+/admin/news
+    News Dashboard
+/admin/news/add
+/admin/news/edit/:id
+    Add and Edit news
+
+/user/register
+/user/login
+/user/profile
